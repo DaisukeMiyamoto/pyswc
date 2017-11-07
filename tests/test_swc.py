@@ -11,6 +11,15 @@ class TestSwc(unittest.TestCase):
     def test_read_file(self):
         pass
 
+    def test_write_file(self):
+        pass
+
+    def test_shift(self):
+        pass
+
+    def test_invert(self):
+        pass
+
 
 if __name__ == '__main__':
     unittest.main()
